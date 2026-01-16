@@ -49,6 +49,9 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-12" value="选中计划组，点击&lt;div&gt;“查询详情”&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="470" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
