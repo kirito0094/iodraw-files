@@ -103,6 +103,9 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-32" value="提示新增成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-35" value="点击“保存修改”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="725" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
