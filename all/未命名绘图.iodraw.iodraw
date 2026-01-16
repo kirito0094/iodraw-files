@@ -46,6 +46,9 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-10" target="WeFMBs7rxNzmuc-Ro3jZ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-10" target="WeFMBs7rxNzmuc-Ro3jZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-10" value="进入生产计划详情页面（可切换选择计划/工作单显示内容详情）" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
