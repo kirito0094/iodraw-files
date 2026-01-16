@@ -82,11 +82,14 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-23" value="填入自定义&lt;div&gt;实绩信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="720" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-24" target="WeFMBs7rxNzmuc-Ro3jZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-24" value="上报成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-26" value="填入自定义&lt;div&gt;实绩信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
