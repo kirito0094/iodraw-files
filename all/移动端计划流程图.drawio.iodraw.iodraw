@@ -28,7 +28,7 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-0" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-0" value="默认查询并显示当月的所有地面/井下计划组" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-0" value="默认查询并显示当月的所有出矿计划组" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-3" value="空白页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
