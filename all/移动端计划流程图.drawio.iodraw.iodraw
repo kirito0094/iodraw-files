@@ -55,7 +55,7 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-13" target="WeFMBs7rxNzmuc-Ro3jZ-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-13" value="修改“备注”或“数据量”字段" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-13" value="修改“备注”或“确认出矿车数”字段" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeFMBs7rxNzmuc-Ro3jZ-21" target="WeFMBs7rxNzmuc-Ro3jZ-36" edge="1">
