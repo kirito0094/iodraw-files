@@ -112,8 +112,8 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-36" value="更新计划数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="858" width="50" height="30" as="geometry" />
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-38" value="点击“确认”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
