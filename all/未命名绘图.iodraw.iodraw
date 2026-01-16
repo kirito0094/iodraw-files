@@ -47,7 +47,7 @@
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-12" value="选中计划组，点击" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="458" width="120" height="30" as="geometry" />
+          <mxGeometry x="350" y="470" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
