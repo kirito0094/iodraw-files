@@ -88,8 +88,8 @@
         <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-24" value="上报成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-26" value="填入自定义&lt;div&gt;实绩信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="720" width="80" height="40" as="geometry" />
+        <mxCell id="WeFMBs7rxNzmuc-Ro3jZ-26" value="填入现场&lt;span style=&quot;background-color: initial;&quot;&gt;信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="725" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
